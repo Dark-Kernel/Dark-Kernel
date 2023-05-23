@@ -1,17 +1,17 @@
 
 ```
                                               |
-                                              |   ❯ echo $USER
+                                              |  ~❯ echo $USER
 .........    Escape the 'Gates' of Hell       |   sumit-patel
   `:::'                  .......  ......      |  
-   :::  *                  `::.    ::'        |   ❯ uname -o
+   :::  *                  `::.    ::'        |  ~❯ uname -o
    ::: .::  .:.::.  .:: .::  `::. :'          |   Arch Linux
    :::  ::   ::  ::  ::  ::    :::.           |  
-   ::: .::. .::  ::.  `::::. .:'  ::.         |   ❯ whoami    
+   ::: .::. .::  ::.  `::::. .:'  ::.         |  ~❯ whoami    
 ...:::.....................::'   .::::..      |   DevOps | Developer | Backend | Student
         -- William E. Roadcap                 |
                                               |   # Reach me out using... 
-                                              |   ❯ mail -s "Hello from.." sumitpatel24389@gmail.com
+                                              |  ~❯ mail -s "Hello from.." sumitpatel24389@gmail.com
                                               |
 ```
 <!--

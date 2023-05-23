@@ -1,5 +1,15 @@
-### Hi there 👋
 
+```
+.........    Escape the 'Gates' of Hell
+  `:::'                  .......  ......
+   :::  *                  `::.    ::'
+   ::: .::  .:.::.  .:: .::  `::. :'
+   :::  ::   ::  ::  ::  ::    :::.
+   ::: .::. .::  ::.  `::::. .:'  ::.
+...:::.....................::'   .::::..
+        -- William E. Roadcap
+
+```
 <!--
 **Dark-Kernel/Dark-Kernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
